@@ -1,174 +1,347 @@
 {
+
     "settings": {
+
         "icons": true
+
     },
+
     "firstname": "Andrei",
+
     "familyname": "Candale",
+
     "linkedin_id": "candale",
+
     "github_id": "candale",
+
     "bio_data": {
-        "email": "candale.andrei@gmail.com",
+
+        "email": "candale.andrei @gmail.com",
+
         "phone": "0755-849-752",
+
         "stars": [
+
             "Python",
+
             "C",
+
             "GNU/Linux"
+
         ],
+
         "summary": {
+
             "points": [
+
                 "Creative and passionate about programming",
+
                 "Ambitious, hard working and curious about new technologies",
+
                 "Ready to take reponsibility"
+
             ]
+
         },
+
         "github_projects": {
+
             "details": [
+
                 {
+
                     "project_name": "candale/Progress4glSyntax",
+
                     "tagline": "Sublime Text 2",
+
                     "description": [
+
                         "Wrote syntax highlighting and various plugins for Progress4gl programming language",
+
                         "Improve productivity in code writing. Popular amongst my coworkers"
+
                     ]
+
                 },
+
                 {
+
                     "project_name": "candale/2048_bot",
+
                     "tagline": "",
+
                     "description": [
+
                         "Bot that plays 2048 game",
+
                         "Written in Javascript and uses some AI tehniques"
+
                     ]
+
                 },
+
                 {
+
                     "project_name": "candale/Jack-s-Retarded-Code",
+
                     "tagline": "",
+
                     "description": [
+
                         "Application that makes use of people's preferences on different products with the purpose of making statistics about the most popular options",
+
                         "Written in C# using Entity Framework ORM for ITEC (IT Engineering Contest)"
+
                     ]
+
                 }
+
             ]
+
         },
+
         "skills": {
+
             "details": [
+
                 {
+
                     "type": "Programming Languages",
+
                     "items": [
+
                         "Python",
+
                         "C",
+
                         "C++",
+
                         "Java",
+
                         "C#",
+
                         "Bash",
+
                         "Javascript"
+
                     ]
+
                 },
+
                 {
+
                     "type": "Databases",
+
                     "items": [
+
                         "OpenEdge Databases",
+
                         "MySQL",
+
                         "MSSQL",
+
                         "SQLite"
+
                     ]
+
                 }
+
             ]
+
         },
+
         "education": {
+
             "show_gpa": false,
+
             "schools": [
+
                 {
+
                     "degree": "Master of Computer Science",
+
                     "major": "Computer Science",
+
                     "institution": "Babeș Bolyai University, Cluj-Napoca",
+
                     "graduation_year": 2015,
+
                     "gpa": "8.91/10"
+
                 },
+
                 {
+
                     "degree": "Matematica și Informatica",
+
                     "major": "Informatica",
+
                     "institution": "Liceul Tehnic INFOEL, Bistrița",
+
                     "graduation_year": 2012,
+
                     "gpa": "3.55/4"
+
                 }
+
             ]
+
         },
+
         "acad_achievements": {
+
             "items": [
+
                 "Participated to National Olympics of Computer Science during Highschool",
+
                 "Scholarship during my first university year"
+
             ]
+
         },
+
         "experience": {
+
             "items": [
+
                 {
+
                     "title": "OpenEdge ABL Junior 2",
+
                     "organisation": "Yonder",
+
                     "location": "Cluj-Napoca",
+
                     "from": "October 2013",
+
                     "to": "Present",
+
                     "details": [
+
                         "Maintained and developed features for Ordina Financial Solutions (http://www.ordina.com)"
+
                     ],
+
                     "technology_used": {
+
                         "tools": [
+
                             "OpenEdge ABL",
+
                             "OpenEdge Databases",
+
                             "REST Services",
+
                             "SOAP Services",
+
                             "Rollbase Framework"
+
                         ]
+
                     }
+
                 }
+
             ]
+
         },
+
         "other_projects": {
+
             "items": [
+
                 {
+
                     "headline": "Built Arduino projects",
+
                     "points": [
+
                         "Implemented different programs (written in C/C++) to control various types of electric motors"
+
                     ]
+
                 },
+
                 {
+
                     "headline": "Used RaspberryPi to build CNC Laser Engraver",
+
                     "points": [
+
                         "Adapted existing program (written in Python) to interpret and execute movements based on GCODE"
+
                     ]
+
                 }
+
             ]
+
         },
+
         "grad_courses": [
+
             {
+
                 "name": "Computer Architecture (x86 Assembly Language)"
+
             },
+
             {
+
                 "name": "Object Oriented Programming (C/C++)"
+
             },
+
             {
+
                 "name": "Fundamentals of Programming (Python)"
+
             },
+
             {
+
                 "name": "Operating Systems (GNU/LINUX)"
+
             },
+
             {
+
                 "name": "Data Structures and Algorithms"
+
             },
+
             {
+
                 "name": "Distributed Operating Systems (GNU/LINUX/WINDOWS)"
+
             },
+
             {
+
                 "name": "Databases (SQL SERVER)"
+
             },
+
             {
+
                 "name": "Methods of Advanced Programming (C#, Java)"
+
             },
+
             {
+
                 "name": "Graphs Algorithmic (Python)"
+
             },
+
             {
+
                 "name": "Computer Networks (C)"
+
             }
+
         ]
+
     }
+
 }
